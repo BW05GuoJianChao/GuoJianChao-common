@@ -1,4 +1,4 @@
-package com.bw.util;
+package com.guojianchao.util;
 
 import java.util.Random;
 import java.util.regex.Matcher;

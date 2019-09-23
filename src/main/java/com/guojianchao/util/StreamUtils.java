@@ -1,4 +1,4 @@
-package com.bw.util;
+package com.guojianchao.util;
 
 import java.io.Closeable;
 import java.io.IOException;
