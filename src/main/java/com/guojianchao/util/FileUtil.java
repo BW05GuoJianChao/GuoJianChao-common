@@ -129,7 +129,7 @@ public class FileUtil {
 		
 			while((lineString =  bufferedReader.readLine()) !=null){
 				
-				String[] split = lineString.split("\\|");
+				String[] split = lineString.split("\\|\\|");
 				
 				Object object = constructor.newInstance(split);
 				

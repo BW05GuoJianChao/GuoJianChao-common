@@ -16,7 +16,7 @@ import com.guojianchao.util.FileUtil;;
  */
 public class TestUtils {
 
-	@Test
+	/*@Test
 	public void testDir(){
 		String pathString = "D:\\内网通\\文件\\拾间\\CMS\\main\\webapp\\resource\\js";
 		List<String> fileList = FileUtil.getFileList(pathString);
@@ -31,7 +31,8 @@ public class TestUtils {
 		String string = FileUtil.readFile(fileName);
 		string = string.replaceAll("\\\n", "<br/>\n");
 		System.out.println(" string  is " + string);
-	}
+	}*/
 
+	
 	
 }
